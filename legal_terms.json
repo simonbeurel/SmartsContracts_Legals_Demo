@@ -1,0 +1,12 @@
+{
+    "SECURITY_POLICY": [
+        "SECURITY_POLICY functionA: LATER_A--",
+        "SECURITY_POLICY functionB: LATER_B--"
+    ],
+    "LEGAL_TERMS": [
+        "LEGAL_TERMS contractDefinition: LATER_C--"
+    ],
+    "PRIVACY_POLICY": [
+        "PRIVACY_POLICY functionD: LATER_D--"
+    ]
+}
