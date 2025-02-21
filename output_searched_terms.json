@@ -1,0 +1,9 @@
+{
+    "LEGAL_CITATION": [
+        "LEGAL_CITATION: Made by www.sagrada-familia-legal.com"
+    ],
+    "SECURITY_POLICY": [
+        "SECURITY_POLICY HelloWorld(): By executing the function below, the executor agree of legal terms and conditions as defined in LEGAL_CITATION",
+        "SECURITY_POLICY global: eIDAS2 DataAct"
+    ]
+}
